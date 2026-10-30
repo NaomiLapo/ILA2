@@ -6,6 +6,6 @@
 - [x] Überprüfen, ob alles erledigt ist
       
 **30.10**
-- [ ] Ordner/Dateien organisieren
-- [ ] Überprüfen, ob alles gesichert ist
-- [ ] Alten Dateien archivieren
+- [x] Ordner/Dateien organisieren
+- [x] Überprüfen, ob alles gesichert ist
+- [x] Alten Dateien archivieren
