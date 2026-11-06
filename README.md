@@ -12,7 +12,7 @@
 
 
 **06.11**
-- [ ] In Projekt weiterarbeiten
-- [ ] Modul 162 durchgehen
-- [ ] Notizen machen
-- [ ] Agenten in Copilot erstellen
+- [x] In Projekt weiterarbeiten
+- [x] Modul 162 durchgehen
+- [x] Notizen machen
+- [x] Agenten in Copilot erstellen
