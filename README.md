@@ -9,3 +9,10 @@
 - [x] Ordner/Dateien organisieren
 - [x] Überprüfen, ob alles gesichert ist
 - [x] Alten Dateien archivieren
+
+
+**06.11**
+- [ ] In Projekt weiterarbeiten
+- [ ] Modul 162 durchgehen
+- [ ] Notizen machen
+- [ ] Agenten in Copilot erstellen
