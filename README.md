@@ -16,6 +16,7 @@
 - [x] Modul 162 durchgehen
 - [x] Notizen machen
 - [x] Agenten in Copilot erstellen
+
 **13.11**
 - [x] In Projekt weiterarbeiten
 - [x] Modul 162 
