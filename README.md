@@ -21,3 +21,10 @@
 - [x] In Projekt weiterarbeiten
 - [x] Modul 162 
 - [x] Dokumente schauen
+
+**20.11**
+- [ ] Prüfen, was am Code des Projekts noch verbessert werden kann.
+- [ ] Eine Aufgabe aus Modul 162 abschliessen
+- [ ] Die Testtabelle erstellen
+- [ ] Notizen machen
+
