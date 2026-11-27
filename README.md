@@ -29,7 +29,7 @@
 - [x] Notizen machen
 
 **27.11**
-- [ ] Das Projekt abschliessen 
-- [ ] die Präsentation vorbereiten 
-- [ ] ein Word-Dokument bearbeiten
-- [ ] Notizen machen
+- [x] Das Projekt abschliessen 
+- [x] die Präsentation vorbereiten 
+- [x] ein Word-Dokument bearbeiten
+- [x] Notizen machen
