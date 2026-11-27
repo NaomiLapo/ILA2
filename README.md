@@ -28,3 +28,8 @@
 - [x] Die Testtabelle erstellen
 - [x] Notizen machen
 
+**27.11**
+- [ ] Das Projekt abschliessen 
+- [ ] die Präsentation vorbereiten 
+- [ ] ein Word-Dokument bearbeiten
+- [ ] Notizen machen
